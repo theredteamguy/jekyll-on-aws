@@ -1,1 +1,1 @@
-aws s3api create-bucket --bucket <your FQDN> --region us-east-1
+aws s3api create-bucket --bucket <Your FQDN> --region us-east-1
